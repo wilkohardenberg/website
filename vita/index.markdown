@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: Vita
+menu: main
 author:
   display_name: Wilko Hardenberg
   login: wilkohardenberg
@@ -17,6 +18,7 @@ date_gmt: '2011-04-24 09:14:31 -0500'
 categories: []
 tags: []
 comments: []
+permalink: /vita/
 ---
 <p><strong>Education</strong></p>
 <p>Ph.D. degree at Department of Geography and Girton College, University of Cambridge. Dissertation title: “Fascist Nature. Environmental Policies and Conflicts in Italy, 1922-1945”. Supervisor: prof. Susan E. Owens. (2007)</p>

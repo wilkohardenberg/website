@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: Writing
+menu: main
 author:
   display_name: Wilko Hardenberg
   login: wilkohardenberg
@@ -17,6 +18,7 @@ date_gmt: '2011-04-24 09:50:56 -0500'
 categories: []
 tags: []
 comments: []
+permalink: /writing/
 ---
 **Book chapters**
 

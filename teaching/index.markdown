@@ -3,6 +3,7 @@ layout: page
 status: publish
 published: true
 title: Teaching
+menu: main
 author:
   display_name: Wilko Hardenberg
   login: wilkohardenberg
@@ -17,6 +18,7 @@ date_gmt: '2013-09-26 16:03:38 -0500'
 categories: []
 tags: []
 comments: []
+permalink: /teaching/
 ---
 <p><strong>Current classes at the University of Wisconsin - Madison<&#47;strong></p>
 <ul>
