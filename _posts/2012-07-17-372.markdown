@@ -1,0 +1,20 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Wilko Hardenberg
+  login: wilkohardenberg
+  email: wilko.hardenberg@gmail.com
+  url: ''
+author_login: wilkohardenberg
+author_email: wilko.hardenberg@gmail.com
+wordpress_id: 372
+wordpress_url: http://www.wilkohardenberg.net/?p=372
+date: '2012-07-17 20:39:12 -0500'
+date_gmt: '2012-07-17 18:39:12 -0500'
+categories: []
+tags: []
+comments: []
+---
+<p>Books Il Rosso e il Verde. PCI e questione ambientale, 1972-1992, Jacabook, Milano (in progress) Fascist Nature. Environmental Policies and Conflicts in Italy, 1922-1943 (manuscript) Articles and essays Green Rhetoric in Blackshirts: Italian Fascism and the Environment, with Marco Armiero, Environment and History, 2011 (in review); Beyond human limits: the culture of nature conservation in interwar Italy. Aether &ndash; The Journal of Media Geography, 2011 (in print); Atti di Dio o atti dell&rsquo;uomo? (in a debate section entitled Catastrofi edited by Wilko von Hardenberg), Passato e Presente, 82(2011); La creazione del modello petrolifero: ambiente, lavoro e consumo agli albori di un&rsquo;industria. 900. Per una storia del tempo presente, 4(2010) (in print); Conflitti ambientali nel Ventennio: l&rsquo;area del Parco Nazionale dello Stelvio tra tutela della natura e usi collettivi tradizionali. Archivio Scialoja-Bolla, 1.2010, Giuffr&egrave; Editore, Milano; Act local, think national: a brief history of access rights and environmental conflicts in Fascist Italy, in Nature and History in Modern Italy, M. Armiero and M. Hall (eds.), Ohio University Press, Athens, Ohio, 2010; Ressourcen und Konflikte als Elemente einer sozialen Umweltgeschichte des 20. Jahrhunderts: Das italienische Beispiel. In Beitr&auml;ge zum G&ouml;ttinger Umwelthistorischen Kolloquium 2008-2009, ed. Bernd Herrmann, Graduiertenkolleg Interdisziplin&auml;re Umweltgeschichte, Universit&auml;t G&ouml;ttingen, 2010;&hellip;</p>

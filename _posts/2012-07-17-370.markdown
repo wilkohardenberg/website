@@ -1,0 +1,20 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Wilko Hardenberg
+  login: wilkohardenberg
+  email: wilko.hardenberg@gmail.com
+  url: ''
+author_login: wilkohardenberg
+author_email: wilko.hardenberg@gmail.com
+wordpress_id: 370
+wordpress_url: http://www.wilkohardenberg.net/?p=370
+date: '2012-07-17 20:39:12 -0500'
+date_gmt: '2012-07-17 18:39:12 -0500'
+categories: []
+tags: []
+comments: []
+---
+<p>My main disciplinary affiliation is environmental history, but I could also be termed a social historian, a historical geographer, or a digital humanist. My most recent research activities were focused on the social history of the environment. In particular, I have analysed conflicts about rights to access resources and the history of nature conservation. My present project is just about transforming my diss on these topics into a book. I was a postgraduate fellow at the Scuola Normale Superiore in Pisa, Italy and held a postdoctoral position, funded by the Autonomous Province of Trento, at the Universit&agrave; di Trento, Italy. I am also an associated researcher at the Laboratorio di Storia delle Alpi of the Universit&agrave; della Svizzera Italiana. My current appointment at the Rachel Carson Center is as Digital Humanities Research Specialist, and that means that I work &nbsp;in support to the upcoming Environment and Society Portal, in particular as regards content research and editing, the organisation of metadata and taxonomies, library interoperability issues, and the implementation of user-generated content and feedback. On this site you may find a link to my blog Walking History, a comprehensive list of publications, my vita and a sub-site, Digital Tools,&nbsp;dedicated to the&hellip;</p>

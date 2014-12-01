@@ -1,0 +1,20 @@
+---
+layout: nav_menu_item
+status: publish
+published: true
+author:
+  display_name: Wilko Hardenberg
+  login: wilkohardenberg
+  email: wilko.hardenberg@gmail.com
+  url: ''
+author_login: wilkohardenberg
+author_email: wilko.hardenberg@gmail.com
+wordpress_id: 373
+wordpress_url: http://www.wilkohardenberg.net/?p=373
+date: '2012-07-17 20:39:12 -0500'
+date_gmt: '2012-07-17 18:39:12 -0500'
+categories: []
+tags: []
+comments: []
+---
+<p>Education Ph.D. degree at Department of Geography and Girton College, University of Cambridge. Dissertation title: &ldquo;Fascist Nature. Environmental Policies and Conflicts in Italy, 1922-1945&rdquo;. Supervisor: prof. Susan E. Owens. Laurea degree in History from the Universit&agrave; di Torino, Italy, with 110&#47;110 cum laude. Dissertation title: &ldquo;Il rosso e il verde. PCI e questione ambientale 1972-1991&rdquo; (The red and the green. The Italian Communist Party and the environmental question 1972-1991). Supervisor: prof. Aldo Agosti. Research experiences Digital Humanities Research Specialist at Rachel Carson Center (since Jun 11) Carson Fellowship at Rachel Carson Center in Munich. Research topic: &ldquo;The Alps as a contested environment: Germany, Austria and Italy, 1860-1960.&rdquo; (Nov 10 &ndash; Feb 11) Post-doc research fellow PAT2007 at the Dipartimento di Scienze Umane e Sociali of the Universit&agrave; degli Studi di Trento, funded by the Provincia Autonoma di Trento. Research topic: &ldquo;Natura: Tutela o utilizzo? Le risorse in Trentino e dintorni&rdquo; (Nature: Conservation or use? Resources in and around Trentino). Supervisor: prof. Gustavo Corni (Oct 08 &ndash; Sep 10); Post-graduate research fellow at the Scuola Normale Superiore in Pisa. Research project:&nbsp; the environmental impact of post-war reconstruction and the economic boom in Italy, 1945-1963. Supervisor: professor Marcello De Cecco (Oct 05&hellip;</p>
