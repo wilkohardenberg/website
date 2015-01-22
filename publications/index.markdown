@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Writing
+title: Publications
 menu: main
 author:
   display_name: Wilko Hardenberg

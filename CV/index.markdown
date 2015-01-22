@@ -2,7 +2,7 @@
 layout: page
 status: publish
 published: true
-title: Vita
+title: Curriculum vitae
 menu: main
 author:
   display_name: Wilko Hardenberg
