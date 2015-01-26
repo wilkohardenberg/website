@@ -17,4 +17,4 @@ tags: []
 comments: []
 ---
 <p>
-    <iframe src="http:&#47;&#47;www.youtube.com&#47;embed&#47;EOfy5LDpEHo" allowfullscreen frameborder="0" height="417" width="500"><&#47;iframe></p>
+    <iframe src="http://www.youtube.com/embed/EOfy5LDpEHo" allowfullscreen frameborder="0" height="417" width="500"></iframe></p>

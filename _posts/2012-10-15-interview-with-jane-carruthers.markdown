@@ -15,6 +15,6 @@ categories:
 tags: []
 comments: []
 ---
-<p><iframe width="560" height="315" src="http:&#47;&#47;www.youtube.com&#47;embed&#47;lZVWFUofmpc" frameborder="0" allowfullscreen><&#47;iframe></p>
+<p><iframe width="560" height="315" src="http://www.youtube.com/embed/lZVWFUofmpc" frameborder="0" allowfullscreen></iframe></p>
 <p>This interview with Jane Carruthers was held during the VI Simposio SoLCHA in Villa de Leyva, Colombia, 6-8 June 2012, and published on the most recent issue of HALAC - Historia Ambiental Latinoamericana y Caribe&ntilde;a.</p>
-<p>Here is a full reference: Hardenberg, Wilko Graf von. "Entrevista con Jane Carruthers [Interview with Jane Carruthers]", <em>Historia Ambiental Latinoamericana y Caribe&ntilde;a<&#47;em>, Vol 2, No 1 (2012). <a href="http:&#47;&#47;www.fafich.ufmg.br&#47;halac&#47;index.php&#47;periodico&#47;article&#47;view&#47;58 " target="_blank">http:&#47;&#47;www.fafich.ufmg.br&#47;halac&#47;index.php&#47;periodico&#47;article&#47;view&#47;58 <&#47;a>  </p>
+<p>Here is a full reference: Hardenberg, Wilko Graf von. "Entrevista con Jane Carruthers [Interview with Jane Carruthers]", <em>Historia Ambiental Latinoamericana y Caribe&ntilde;a</em>, Vol 2, No 1 (2012). <a href="http://www.fafich.ufmg.br/halac/index.php/periodico/article/view/58 " target="_blank">http://www.fafich.ufmg.br/halac/index.php/periodico/article/view/58 </a>  </p>

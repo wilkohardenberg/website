@@ -18,7 +18,7 @@ comments: []
 ---
 
 <div class='p_embed p_image_embed'>
-<img alt="Media_httpwwwwordlene_cfvlo" height="120" src="http:&#47;&#47;www.wilkohardenberg.net&#47;wp-content&#47;uploads&#47;2009&#47;11&#47;media_httpwwwwordlene_Cfvlo.jpg.scaled500.jpg" width="160" &#47;><br />
-<&#47;div></p>
-<p &#47;>made with <a href="http:&#47;&#47;www.wordle.net">www.wordle.net<&#47;a>
-<div class="blogger-post-footer"><&#47;div></p>
+<img alt="Media_httpwwwwordlene_cfvlo" height="120" src="http://www.wilkohardenberg.net/wp-content/uploads/2009/11/media_httpwwwwordlene_Cfvlo.jpg.scaled500.jpg" width="160" /><br />
+</div>
+made with <a href="http://www.wordle.net">www.wordle.net</a>
+<div class="blogger-post-footer"></div>

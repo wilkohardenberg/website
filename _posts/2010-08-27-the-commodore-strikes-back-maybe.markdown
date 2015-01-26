@@ -21,8 +21,8 @@ comments: []
 
 <div class="posterous_bookmarklet_entry">
 <div class='p_embed p_image_embed'>
-<a href="http:&#47;&#47;www.wilkohardenberg.net&#47;wp-content&#47;uploads&#47;2010&#47;08&#47;media_httpwwwblogcdnc_FxAsx.jpg.scaled1000.jpg"><img alt="Media_httpwwwblogcdnc_fxasx" height="312" src="http:&#47;&#47;www.wilkohardenberg.net&#47;wp-content&#47;uploads&#47;2010&#47;08&#47;media_httpwwwblogcdnc_FxAsx.jpg.scaled1000-300x187.jpg" width="500" &#47;><&#47;a><br />
-<&#47;div></p>
-<div class="posterous_quote_citation">via <a href="http:&#47;&#47;www.engadget.com&#47;2010&#47;08&#47;26&#47;commodore-usa-announces-the-pc64-an-atom-powered-pc-in-a-replic&#47;">engadget.com<&#47;a><&#47;div></p>
-<p>Commodore USA has <a href="http:&#47;&#47;www.engadget.com&#47;2010&#47;08&#47;26&#47;commodore-usa-announces-the-pc64-an-atom-powered-pc-in-a-replic&#47;">announced<&#47;a> the PC64, an Atom-powered PC in a replica Commodore case.<&#47;p><br />
-<&#47;div></p>
+<a href="http://www.wilkohardenberg.net/wp-content/uploads/2010/08/media_httpwwwblogcdnc_FxAsx.jpg.scaled1000.jpg"><img alt="Media_httpwwwblogcdnc_fxasx" height="312" src="http://www.wilkohardenberg.net/wp-content/uploads/2010/08/media_httpwwwblogcdnc_FxAsx.jpg.scaled1000-300x187.jpg" width="500" /></a><br />
+</div></p>
+<div class="posterous_quote_citation">via <a href="http://www.engadget.com/2010/08/26/commodore-usa-announces-the-pc64-an-atom-powered-pc-in-a-replic/">engadget.com</a></div></p>
+<p>Commodore USA has <a href="http://www.engadget.com/2010/08/26/commodore-usa-announces-the-pc64-an-atom-powered-pc-in-a-replic/">announced</a> the PC64, an Atom-powered PC in a replica Commodore case.</p><br />
+</div>

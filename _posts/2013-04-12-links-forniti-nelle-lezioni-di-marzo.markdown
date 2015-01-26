@@ -15,13 +15,13 @@ categories:
 tags: []
 comments: []
 ---
-<p>Modulo per l'inserimento dei dati degli studenti interessati a sostenere la prova finale: <a href="http:&#47;&#47;is.gd&#47;AIRS2013" target="_blank">http:&#47;&#47;is.gd&#47;AIRS2013<&#47;a></p>
-<p>Stili di citazione per Zotero: <a href="http:&#47;&#47;www.zotero.org&#47;styles" target="_blank">http:&#47;&#47;www.zotero.org&#47;styles<&#47;a></p>
+<p>Modulo per l'inserimento dei dati degli studenti interessati a sostenere la prova finale: <a href="http://is.gd/AIRS2013" target="_blank">http://is.gd/AIRS2013</a></p>
+<p>Stili di citazione per Zotero: <a href="http://www.zotero.org/styles" target="_blank">http://www.zotero.org/styles</a></p>
 <p>Image tools - add-on firefox per far vedere file grafici direttamente nel browser</p>
-<p>Introduzione a Wordpress.com: <a href="http:&#47;&#47;en.support.wordpress.com&#47;" target="_blank">http:&#47;&#47;en.support.wordpress.com&#47;<&#47;a><br />
-Shortcodes per inserimento di materiale multimediale in un sito Wordpress: <a href="http:&#47;&#47;en.support.wordpress.com&#47;shortcodes&#47;" target="_blank">http:&#47;&#47;en.support.wordpress.com&#47;shortcodes&#47;<&#47;a></p>
-<p>Flickr Commons:<a href=" http:&#47;&#47;www.flickr.com&#47;commons" target="_blank"> http:&#47;&#47;www.flickr.com&#47;commons<&#47;a><br />
-L'Istituto Luce su Youtube: <a href="http:&#47;&#47;www.youtube.com&#47;user&#47;CinecittaLuce" target="_blank">http:&#47;&#47;www.youtube.com&#47;user&#47;CinecittaLuce<&#47;a><br />
-Ricerca di materiale Creative Commons: <a href="http:&#47;&#47;search.creativecommons.org&#47;" target="_blank">http:&#47;&#47;search.creativecommons.org&#47;<&#47;a></p>
-<p>Fotografia storica crowdosurced: <a href="http:&#47;&#47;historypin.com" target="_blank">http:&#47;&#47;historypin.com<&#47;a><br />
-Progetto sulla raccolta di materiale sulla I Guerra Mondiale: <a href="http:&#47;&#47;www.europeana1914-1918.eu" target="_blank">http:&#47;&#47;www.europeana1914-1918.eu<&#47;a></p>
+<p>Introduzione a Wordpress.com: <a href="http://en.support.wordpress.com/" target="_blank">http://en.support.wordpress.com/</a><br />
+Shortcodes per inserimento di materiale multimediale in un sito Wordpress: <a href="http://en.support.wordpress.com/shortcodes/" target="_blank">http://en.support.wordpress.com/shortcodes/</a></p>
+<p>Flickr Commons:<a href=" http://www.flickr.com/commons" target="_blank"> http://www.flickr.com/commons</a><br />
+L'Istituto Luce su Youtube: <a href="http://www.youtube.com/user/CinecittaLuce" target="_blank">http://www.youtube.com/user/CinecittaLuce</a><br />
+Ricerca di materiale Creative Commons: <a href="http://search.creativecommons.org/" target="_blank">http://search.creativecommons.org/</a></p>
+<p>Fotografia storica crowdosurced: <a href="http://historypin.com" target="_blank">http://historypin.com</a><br />
+Progetto sulla raccolta di materiale sulla I Guerra Mondiale: <a href="http://www.europeana1914-1918.eu" target="_blank">http://www.europeana1914-1918.eu</a></p>

@@ -18,6 +18,6 @@ comments: []
 ---
 
 <div class="posterous_bookmarklet_entry">
-      <object height="417" width="500"><param name="movie" value="http:&#47;&#47;www.youtube.com&#47;v&#47;EOd3tWVTKNc&hl=en&fs=1" &#47;><param name="wmode" value="window" &#47;><param name="allowFullScreen" value="true" &#47;><param name="allowscriptaccess" value="always" &#47;><embed allowfullscreen="true" src="http:&#47;&#47;www.youtube.com&#47;v&#47;EOd3tWVTKNc&hl=en&fs=1" wmode="window" allowscriptaccess="always" type="application&#47;x-shockwave-flash" height="417" width="500"><&#47;embed><&#47;object></p>
-<div class="posterous_quote_citation">via <a href="http:&#47;&#47;www.youtube.com&#47;watch?v=EOd3tWVTKNc">youtube.com<&#47;a><&#47;div></p>
-<p><&#47;p><&#47;div></p>
+      <object height="417" width="500"><param name="movie" value="http://www.youtube.com/v/EOd3tWVTKNc&hl=en&fs=1" /><param name="wmode" value="window" /><param name="allowFullScreen" value="true" /><param name="allowscriptaccess" value="always" /><embed allowfullscreen="true" src="http://www.youtube.com/v/EOd3tWVTKNc&hl=en&fs=1" wmode="window" allowscriptaccess="always" type="application/x-shockwave-flash" height="417" width="500"></embed></object></p>
+<div class="posterous_quote_citation">via <a href="http://www.youtube.com/watch?v=EOd3tWVTKNc">youtube.com</a></div></p>
+<p></p></div>

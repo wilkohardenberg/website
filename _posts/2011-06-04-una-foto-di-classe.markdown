@@ -15,5 +15,5 @@ categories:
 tags: []
 comments: []
 ---
-<p><img class="alignnone" title="Una foto di classe" src="http:&#47;&#47;negritastorica.files.wordpress.com&#47;2011&#47;05&#47;foto-informatica.jpg" alt="" width="600" height="450" &#47;></p>
-<p>Foto tratta dal sito <a href="http:&#47;&#47;negritastorica.wordpress.com">negritastorica.wordpress.com<&#47;a><&#47;p></p>
+<p><img class="alignnone" title="Una foto di classe" src="http://negritastorica.files.wordpress.com/2011/05/foto-informatica.jpg" alt="" width="600" height="450" /></p>
+<p>Foto tratta dal sito <a href="http://negritastorica.wordpress.com">negritastorica.wordpress.com</a></p></p>

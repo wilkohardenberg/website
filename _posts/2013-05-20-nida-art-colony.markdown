@@ -15,5 +15,5 @@ categories:
 tags: []
 comments: []
 ---
-<p><iframe align="center" src="http:&#47;&#47;www.flickr.com&#47;slideShow&#47;index.gne?group_id=&user_id=66248475@N08&set_id=72157633521538167&text=" frameBorder="0" width="600" height="600" scrolling="no"><&#47;iframe></p>
+<p><iframe align="center" src="http://www.flickr.com/slideShow/index.gne?group_id=&user_id=66248475@N08&set_id=72157633521538167&text=" frameBorder="0" width="600" height="600" scrolling="no"></iframe></p>
 <p>Photos first, comments will follow.</p>

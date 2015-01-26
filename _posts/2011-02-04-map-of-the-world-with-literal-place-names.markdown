@@ -7,9 +7,9 @@ author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: "    <div class=\"posterous_bookmarklet_entry\">\r\n      <div class='p_embed
-  p_image_embed'>\r\n<a href=\"http:&#47;&#47;www.wilkohardenberg.net&#47;wp-content&#47;uploads&#47;2011&#47;02&#47;media_httpiimgurcomex_rJhek.jpg.scaled1000.jpg\"><img
-  alt=\"Media_httpiimgurcomex_rjhek\" height=\"248\" src=\"http:&#47;&#47;www.wilkohardenberg.net&#47;wp-content&#47;uploads&#47;2011&#47;02&#47;media_httpiimgurcomex_rJhek.jpg.scaled1000-300x148.jpg\"
-  width=\"500\" &#47;><&#47;a>\r\n<&#47;div>\r\n"
+  p_image_embed'>\r\n<a href=\"http://www.wilkohardenberg.net/wp-content/uploads/2011/02/media_httpiimgurcomex_rJhek.jpg.scaled1000.jpg\"><img
+  alt=\"Media_httpiimgurcomex_rjhek\" height=\"248\" src=\"http://www.wilkohardenberg.net/wp-content/uploads/2011/02/media_httpiimgurcomex_rJhek.jpg.scaled1000-300x148.jpg\"
+  width=\"500\" /></a>\r\n</div>\r\n"
 wordpress_id: 133
 wordpress_url: http://www.wilkohardenberg.net/map-of-the-world-with-literal-place-names/
 date: '2011-02-04 14:09:00 -0600'
@@ -22,10 +22,10 @@ comments: []
 ---
 <div class="posterous_bookmarklet_entry">
 <div class='p_embed p_image_embed'>
-<a href="http:&#47;&#47;www.wilkohardenberg.net&#47;wp-content&#47;uploads&#47;2011&#47;02&#47;media_httpiimgurcomex_rJhek.jpg.scaled1000.jpg"><img alt="Media_httpiimgurcomex_rjhek" height="248" src="http:&#47;&#47;www.wilkohardenberg.net&#47;wp-content&#47;uploads&#47;2011&#47;02&#47;media_httpiimgurcomex_rJhek.jpg.scaled1000-300x148.jpg" width="500" &#47;><&#47;a><br />
-<&#47;div><br />
+<a href="http://www.wilkohardenberg.net/wp-content/uploads/2011/02/media_httpiimgurcomex_rJhek.jpg.scaled1000.jpg"><img alt="Media_httpiimgurcomex_rjhek" height="248" src="http://www.wilkohardenberg.net/wp-content/uploads/2011/02/media_httpiimgurcomex_rJhek.jpg.scaled1000-300x148.jpg" width="500" /></a><br />
+</div><br />
 <a id="more"></a><a id="more-133"></a></p>
-<div class="posterous_quote_citation">via <a href="http:&#47;&#47;i.imgur.com&#47;ex6Zu.jpg">i.imgur.com<&#47;a><&#47;div></p>
+<div class="posterous_quote_citation">via <a href="http://i.imgur.com/ex6Zu.jpg">i.imgur.com</a></div></p>
 <p>thanks to @TheHistoryPress for this link!<br />
-<br &#47;>As they have noticed, curiously England is missing.<br />
-<br &#47;>And, not always the translations seem 100% accurate to me.<&#47;p><&#47;div></p>
+<br />As they have noticed, curiously England is missing.<br />
+<br />And, not always the translations seem 100% accurate to me.</p></div>

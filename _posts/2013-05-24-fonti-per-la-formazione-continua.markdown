@@ -15,8 +15,8 @@ categories:
 tags: []
 comments: []
 ---
-<p>Lista di strumenti per la storia digitale: <a href="https:&#47;&#47;digitalresearchtools.pbworks.com " target="_blank">https:&#47;&#47;digitalresearchtools.pbworks.com <&#47;a></p>
-<p>Programmazione per storici: <a href="http:&#47;&#47;programminghistorian.org&#47;" target="_blank">http:&#47;&#47;programminghistorian.org&#47;<&#47;a></p>
-<p>Corsi online di storia digitale: <a href="http:&#47;&#47;historyspot.org.uk&#47;" target="_blank">http:&#47;&#47;historyspot.org.uk&#47;<&#47;a></p>
-<p>Come creare risorse digitali da documenti:<a href=" http:&#47;&#47;hds.essex.ac.uk&#47;g2gp&#47;digitising_history&#47;" target="_blank"> http:&#47;&#47;hds.essex.ac.uk&#47;g2gp&#47;digitising_history&#47;<&#47;a></p>
-<p>Repertorio di risorse digitali utili alla ricerca storica (in italiano): <a href="http:&#47;&#47;www.storiadigitale.it" target="_blank">http:&#47;&#47;www.storiadigitale.it<&#47;a></p>
+<p>Lista di strumenti per la storia digitale: <a href="https://digitalresearchtools.pbworks.com " target="_blank">https://digitalresearchtools.pbworks.com </a></p>
+<p>Programmazione per storici: <a href="http://programminghistorian.org/" target="_blank">http://programminghistorian.org/</a></p>
+<p>Corsi online di storia digitale: <a href="http://historyspot.org.uk/" target="_blank">http://historyspot.org.uk/</a></p>
+<p>Come creare risorse digitali da documenti:<a href=" http://hds.essex.ac.uk/g2gp/digitising_history/" target="_blank"> http://hds.essex.ac.uk/g2gp/digitising_history/</a></p>
+<p>Repertorio di risorse digitali utili alla ricerca storica (in italiano): <a href="http://www.storiadigitale.it" target="_blank">http://www.storiadigitale.it</a></p>
