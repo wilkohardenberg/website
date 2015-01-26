@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: The Age of Stupid - Trailer
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: "    <div class=\"posterous_bookmarklet_entry\">\r\n      <embed src=\"http:&#47;&#47;vimeo.com&#47;moogaloop.swf?clip_id=2992103&amp;server=vimeo.com&amp;show_title=0&amp;show_byline=0&amp;show_portrait=0&amp;color=&amp;fullscreen=1\"

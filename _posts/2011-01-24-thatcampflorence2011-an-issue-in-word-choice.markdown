@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: ThatCampFlorence2011 - An issue in word choice
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: '    <p>Since the call for <a href="http:&#47;&#47;www.thatcampflorence.org&#47;about&#47;"

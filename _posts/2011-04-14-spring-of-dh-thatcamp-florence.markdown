@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Spring of DH - THATCamp Florence
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: "    <p><em>Considerate la vostra semenza:<&#47;em><br &#47;> <em>fatti non

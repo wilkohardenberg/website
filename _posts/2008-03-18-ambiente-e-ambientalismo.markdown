@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Ambiente e ambientalismo
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: "<em>Questa volta ci diamo alla forma del saggio con una storia del movimento

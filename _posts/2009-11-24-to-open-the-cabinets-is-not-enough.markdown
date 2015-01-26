@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: To open the cabinets is not enough...
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: "<div>It may seem a triviality, but without open access to information democracy

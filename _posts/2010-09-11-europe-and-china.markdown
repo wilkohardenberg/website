@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Europe and China
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: "    <div class=\"posterous_bookmarklet_entry\">\r\n      <embed src=\"http:&#47;&#47;www.formart.tv&#47;_formartTV&#47;mediaplayer&#47;player.swf\"

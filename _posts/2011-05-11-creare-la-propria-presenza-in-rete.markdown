@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Creare la propria presenza in rete
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: "Sono stati indicati alcuni tra i numerosi servizi che offrono la possibilit&agrave;

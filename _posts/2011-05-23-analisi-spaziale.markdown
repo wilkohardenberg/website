@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Analisi spaziale
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: "<p>\r\n&Eacute; stato presentato il sito <a href=\"http:&#47;&#47;MapWarper.net\"

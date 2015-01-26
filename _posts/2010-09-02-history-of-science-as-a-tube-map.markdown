@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: History of Science as a Tube map
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 wordpress_id: 139

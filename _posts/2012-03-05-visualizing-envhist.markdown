@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: 'Visualizing #envhist'
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: "These are two visualizations of the users of the #<a href=\"https:&#47;&#47;twitter.com&#47;#!&#47;search&#47;%23envhist\"

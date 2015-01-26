@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Wikipedia and academic usage
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: '    <p><a href="http:&#47;&#47;www.oclc.org&#47;uk&#47;en&#47;global&#47;default.htm"

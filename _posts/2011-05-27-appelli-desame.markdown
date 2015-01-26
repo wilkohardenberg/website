@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Appelli d'esame
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 wordpress_id: 86

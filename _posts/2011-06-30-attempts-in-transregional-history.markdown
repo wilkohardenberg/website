@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Attempts in transregional history
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: "Hereafter you may find the paper I held on June 28 2011 at the 6th ESEH

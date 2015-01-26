@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: 'Tony Judt: "Bring Back the Rails!"'
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: "    <div class=\"posterous_bookmarklet_entry\"><div class='p_embed p_image_embed'>\r\n<img

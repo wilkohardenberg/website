@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: The Ultimate Rejection Letter
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: "    <p>Herbert A. Millington<br &#47;>Chair - Search Committee<br &#47;>412A

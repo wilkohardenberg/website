@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Golden Eagles in the Alps
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: " <a href=\"http:&#47;&#47;www.wilkohardenberg.net&#47;wp-content&#47;uploads&#47;2011&#47;04&#47;askaneagle_poster_aseh2011.pdf\"><img

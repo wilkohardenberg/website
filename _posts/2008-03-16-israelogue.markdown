@@ -3,11 +3,7 @@ layout: post
 status: publish
 published: true
 title: Israelogue
-author:
-  display_name: Wilko Hardenberg
-  login: wilkohardenberg
-  email: wilko.hardenberg@gmail.com
-  url: ''
+author: Wilko Hardenberg
 author_login: wilkohardenberg
 author_email: wilko.hardenberg@gmail.com
 excerpt: '    <p><span style="font-style: italic; font-family: trebuchet ms; font-size:
