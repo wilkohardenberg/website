@@ -1,0 +1,26 @@
+---
+layout: post
+status: publish
+published: true
+title: Wordle
+post_author:
+  firstname: Wilko
+  lastname: Hardenberg
+post_author_login: wilkohardenberg
+post_author_email: wilko.hardenberg@gmail.com
+wordpress_id: 149
+wordpress_url: http://www.wilkohardenberg.net/untitled/
+date: '2009-11-01 23:00:00 -0600'
+date_gmt: '2009-11-01 22:00:00 -0600'
+categories:
+- blog
+
+tags: []
+comments: []
+---
+
+<div class='p_embed p_image_embed'>
+<img alt="Media_httpwwwwordlene_cfvlo" height="120" src="http://www.wilkohardenberg.net/wp-content/uploads/2009/11/media_httpwwwwordlene_Cfvlo.jpg.scaled500.jpg" width="160" /><br />
+</div>
+made with <a href="http://www.wordle.net">www.wordle.net</a>
+<div class="blogger-post-footer"></div>

@@ -1,0 +1,18 @@
+---
+layout: page
+status: publish
+published: true
+title: Primary sources
+menu: main
+weight: 1
+author: Wilko Hardenberg
+author_login: wilkohardenberg
+author_email: wilko.hardenberg@gmail.com
+date: '2018-02-05'
+categories: []
+tags: []
+comments: []
+permalink: /sources/
+---
+
+<iframe src="https://www.zotero.org/groups/351796/hardenberg_sources/items?" allowtransparency="true" style="width: 100%; height: 700px; border: 0;"></iframe>

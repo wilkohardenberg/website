@@ -1,0 +1,37 @@
+---
+layout: post
+status: publish
+published: true
+title: Polaroid
+post_author:
+  firstname: Wilko
+  lastname: Hardenberg
+post_author_login: wilkohardenberg
+post_author_email: wilko.hardenberg@gmail.com
+excerpt: 'La storia si fa anche con le foto. E quali foto sono pi&ugrave; adatte ad
+  illustrare la storia pi&ugrave; recente, la storia delle nostre infanzie ed adolescenze
+  delle buone vecchie polaroid, le macchine fotografiche a sviluppo istanteneo inventate
+  da <a href="http://en.wikipedia.org/wiki/Edwin_Land">Edwin Land</a>
+  che immagino tutti, pi&ugrave; o meno, abbiamo tenuto tra le mani almeno una volta.
+  O almeno avrete avuto il piacere di guardare le sue tipiche foto dai colori sgargianti
+  e/o distorti incorniciate in bianco, su cui non ci si pu&ograve; trattenere
+  dal disegnare, scrivere, scarabocchiare. '
+wordpress_id: 150
+wordpress_url: http://www.wilkohardenberg.net/polaroid/
+date: '2008-03-21 17:00:00 -0500'
+date_gmt: '2008-03-21 16:00:00 -0500'
+categories:
+
+- blog
+tags:
+- nostalgia
+- photography
+comments: []
+---
+<p>La storia si fa anche con le foto. E quali foto sono pi&ugrave; adatte ad illustrare la storia pi&ugrave; recente, la storia delle nostre infanzie ed adolescenze delle buone vecchie polaroid, le macchine fotografiche a sviluppo istanteneo inventate da <a href="http://en.wikipedia.org/wiki/Edwin_Land">Edwin Land</a> che immagino tutti, pi&ugrave; o meno, abbiamo tenuto tra le mani almeno una volta. O almeno avrete avuto il piacere di guardare le sue tipiche foto dai colori sgargianti e/o distorti incorniciate in bianco, su cui non ci si pu&ograve; trattenere dal disegnare, scrivere, scarabocchiare. <a id="more"></a><a id="more-150"></a></p>
+<div class="p_embed p_image_embed"><img src="/content/photos/media_httpwwwpolanoid_Hlupe.jpg" width="466" height="566" /></div>
+<div class="p_embed p_image_embed">Scatto di cessiejohen tratto da <a href="http://www.polanoid.net">www.polanoid.net</a></div><br />
+<p>Ecco, se il ricordo delle polaroid fa sorgere in voi un moto di nostalgia, un vago sentore di <em>madeleines </em>, &egrave; giunta l'ora di impegnarsi per salvarle da una ingiusta fine. La concorrenza spietata, fredda e perfettina della fotografia digitale ha infatti indotto la Polaroid Corporation ad annunciare l'8 febbraio 2008 che interromper&agrave; la produzione sia delle macchine che dei rullini. Un giorno triste per i nostri ricordi e per la costruzione di ricordi futuri.</p>
+<p>Se amate la fotografia istantanea e volete vedere la pi&ugrave; grande collezione in progress di polaroid visitate il sito <a href="http://www.polanoid.net/">www.polanoid.net</a>.<br />
+Se volete aiutare le polaroid a sopravvivere, magari attraverso la cessione della licenza di produzione ad qualche produttore alternativo, andate sue <a href="http://www.savepolaroid.com/">www.savepolaroid.com</a> e fatevi dire come potete essere utili.</p>
+<div class="blogger-post-footer"></div>

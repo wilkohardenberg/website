@@ -1,0 +1,313 @@
+<span class="mobile btn-mobile-menu">
+  <i class="icon icon-list btn-mobile-menu__icon"></i>
+  <i class="icon icon-x-circle btn-mobile-close__icon hidden"></i>
+</span>
+
+<header class="panel-cover" style="background-image: url({{ "{{ site.baseurl }}/images/cover.jpg" }})">
+  <div class="panel-main">
+
+    <div class="panel-main__inner panel-inverted">
+    <div class="panel-main__content">
+      <a href="/" title="link to home">
+        <img src="{{ "/images/profile.jpg" }}" class="user-image" alt="My Profile Photo">
+        <h1 class="panel-cover__title panel-title">{{ site.title }}</h1>
+      </a>
+        <hr class="panel-cover__divider">
+        <p class="panel-cover__description">{{ site.description }}</p>
+        <hr class="panel-cover__divider panel-cover__divider--secondary">
+
+        <div class="navigation-wrapper">
+
+          <nav class="cover-navigation cover-navigation--primary">
+            <ul class="navigation" style="margin-left: 20px;">
+              <li class="navigation__item"><a href="{{ site.baseurl }}/#blog" title="link to blog posts" class="blog-button">Posts</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/teaching" title="link to syllabi and teaching material" class="blog-button">Syllabi</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/CV" target="_blank" title="link to my curriculm (in pdf)" class="blog-button">CV</a></li>
+              <li class="navigation__item"><a href="{{ site.baseurl }}/colophon" title="link to colophon"class="blog-button">Colophon</a></li>
+            </ul>
+          </nav>
+
+          <nav class="cover-navigation navigation--social">
+            <ul class="navigation">
+
+              <!-- Twitter -->
+                <a href="/tweets/" title="Read my tweets (embedded)">
+                  <svg version="1.1" id="Capa_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	                 width="48px" height="48px" viewBox="0 0 512 512" enable-background="new 0 0 512 512"  style="PADDING-TOP: 20px">
+                   <path d="M256,0C114.615,0,0,114.615,0,256s114.615,256,256,256s256-114.615,256-256S397.385,0,256,0z M403.121,180.544
+	                 c0.146,3.254,0.221,6.528,0.221,9.819c0,100.311-76.354,215.982-215.979,215.982c-42.868,0-82.768-12.567-116.363-34.106
+	                 c5.938,0.703,11.981,1.062,18.108,1.062c35.565,0,68.295-12.138,94.275-32.496c-33.217-0.611-61.25-22.562-70.912-52.717
+	                 c4.637,0.885,9.392,1.361,14.283,1.361c6.923,0,13.629-0.928,19.999-2.662c-34.726-6.977-60.893-37.656-60.893-74.434
+	                 c0-0.32,0-0.639,0.008-0.955c10.235,5.685,21.939,9.1,34.382,9.494c-20.37-13.611-33.77-36.846-33.77-63.184
+                   c0-13.911,3.744-26.952,10.278-38.162c37.439,45.927,93.374,76.146,156.462,79.314c-1.294-5.559-1.965-11.351-1.965-17.302
+                   c0-41.92,33.99-75.906,75.909-75.906c21.833,0,41.562,9.218,55.409,23.97c17.29-3.404,33.537-9.721,48.206-18.42
+                   c-5.668,17.727-17.705,32.603-33.376,41.997c15.354-1.834,29.983-5.916,43.597-11.952
+	                 C430.825,156.471,417.955,169.84,403.121,180.544z" style="fill:#0084b4"/>
+                 </svg>
+                    </a>
+
+              <!-- ORCID -->
+              <a href="http://orcid.org/0000-0002-8704-6997" title="See my ORCID profile (external site)" target="_blank">
+         <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="48px" height="48px"
+         	 viewBox="0 0 256 256" style="enable-background:new 0 0 256 256;" xml:space="preserve">
+           <style type="text/css">
+           	.st0{fill:#A6CE39;}
+           	.st1{fill:#FFFFFF;}
+           </style>
+         <path class="st0" d="M256,128c0,70.7-57.3,128-128,128C57.3,256,0,198.7,0,128C0,57.3,57.3,0,128,0C198.7,0,256,57.3,256,128z"/>
+         <g>
+         	<path class="st1" d="M86.3,186.2H70.9V79.1h15.4v48.4V186.2z"/>
+         	<path class="st1" d="M108.9,79.1h41.6c39.6,0,57,28.3,57,53.6c0,27.5-21.5,53.6-56.8,53.6h-41.8V79.1z M124.3,172.4h24.5
+         		c34.9,0,42.9-26.5,42.9-39.7c0-21.5-13.7-39.7-43.7-39.7h-23.7V172.4z"/>
+         	<path class="st1" d="M88.7,56.8c0,5.5-4.5,10.1-10.1,10.1c-5.6,0-10.1-4.6-10.1-10.1c0-5.6,4.5-10.1,10.1-10.1
+         		C84.2,46.7,88.7,51.3,88.7,56.8z"/>
+         </g>
+         </svg>
+       </a>
+
+              <!-- Zotero -->
+                <a href="https://www.zotero.org/groups/hardenberg_sources/items" target="_blank" title="My Zotero sources group (external site)"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   width="48"
+   height="48"
+   viewBox="0 0 512 512"
+   id="Capa_1"
+   xml:space="preserve"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="zotero_grey.svg"><sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1360"
+     inkscape:window-height="744"
+     id="namedview6"
+     showgrid="false"
+     inkscape:zoom="0.4609375"
+     inkscape:cx="-104.13559"
+     inkscape:cy="256"
+     inkscape:window-x="0"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Capa_1" /><metadata
+     id="metadata9"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs7" /><g
+     style="fill:#666666;stroke:none"
+     id="g6"
+     transform="matrix(0.45545944,0,0,-0.45545944,-32.747067,546.63502)"><path
+       style="fill:#900"
+       id="path8"
+       d="M 520,1185 C 215,1116 19,802 95,505 146,306 306,146 505,95 c 297,-76 605,112 681,415 22,87 15,233 -15,311 -102,268 -383,425 -651,364 z M 878,862 881,789 745,639 608,490 l 137,0 136,0 -3,-72 -3,-73 -235,0 -235,0 -2,75 -3,75 134,145 134,145 -134,3 -134,3 0,68 c 0,37 3,71 7,75 4,3 110,5 237,4 l 231,-3 3,-73 z"
+       inkscape:connector-curvature="0" /></g></svg></a>
+
+              <!-- Instagram -->
+                <a href="/instagram/" title="My Instagram account (embedded)">
+  <svg
+     xmlns:dc="http://purl.org/dc/elements/1.1/"
+     xmlns:cc="http://creativecommons.org/ns#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:svg="http://www.w3.org/2000/svg"
+     xmlns="http://www.w3.org/2000/svg"
+     xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+     xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+     version="1.1"
+     id="Capa_1"
+     x="0px"
+     y="0px"
+     width="48"
+     height="48"
+     viewBox="0 0 48 48"
+     xml:space="preserve"
+     inkscape:version="0.91 r13725"
+     sodipodi:docname="instagram.svg"><metadata
+       id="metadata51"><rdf:RDF><cc:Work
+           rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+             rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+       id="defs49" /><sodipodi:namedview
+       pagecolor="#ffffff"
+       bordercolor="#666666"
+       borderopacity="1"
+       objecttolerance="10"
+       gridtolerance="10"
+       guidetolerance="10"
+       inkscape:pageopacity="0"
+       inkscape:pageshadow="2"
+       inkscape:window-width="947"
+       inkscape:window-height="566"
+       id="namedview47"
+       showgrid="false"
+       inkscape:zoom="4.7530814"
+       inkscape:cx="7.6792293"
+       inkscape:cy="24.826"
+       inkscape:window-x="0"
+       inkscape:window-y="0"
+       inkscape:window-maximized="0"
+       inkscape:current-layer="g3" /><g
+       id="g3"
+       transform="translate(0,-1.6520004)"><g
+         id="g5"><g
+           id="g7"
+           style="fill:#fbad50"
+           transform="matrix(0.96672843,0,0,0.96672843,0,1.652)"><path
+             d="m 24.825,29.796 c 2.739,0 4.972,-2.229 4.972,-4.97 0,-1.082 -0.354,-2.081 -0.94,-2.897 -0.903,-1.252 -2.371,-2.073 -4.029,-2.073 -1.659,0 -3.126,0.82 -4.031,2.072 -0.588,0.816 -0.939,1.815 -0.94,2.897 -0.003,2.741 2.228,4.971 4.968,4.971 z"
+             id="path9"
+             style="fill:#fbad50"
+             inkscape:connector-curvature="0" /><polygon
+             points="30.907,18.762 35.678,18.746 35.678,14.58 35.678,13.96 35.055,13.962 30.891,13.975 "
+             id="polygon11"
+             style="fill:#fbad50" /><path
+             d="M 24.826,0 C 11.137,0 0,11.137 0,24.826 0,38.514 11.137,49.652 24.826,49.652 38.514,49.652 49.652,38.514 49.652,24.826 49.652,11.137 38.516,0 24.826,0 Z m 14.119,21.929 0,11.56 c 0,3.011 -2.448,5.458 -5.457,5.458 l -17.324,0 c -3.01,0 -5.457,-2.447 -5.457,-5.458 l 0,-11.56 0,-5.764 c 0,-3.01 2.447,-5.457 5.457,-5.457 l 17.323,0 c 3.01,0 5.458,2.447 5.458,5.457 l 0,5.764 z"
+             id="path13"
+             style="fill:#fbad50"
+             inkscape:connector-curvature="0" /><path
+             d="m 32.549,24.826 c 0,4.257 -3.464,7.723 -7.723,7.723 -4.259,0 -7.722,-3.466 -7.722,-7.723 0,-1.024 0.204,-2.003 0.568,-2.897 l -4.215,0 0,11.56 c 0,1.494 1.213,2.704 2.706,2.704 l 17.323,0 c 1.491,0 2.706,-1.21 2.706,-2.704 l 0,-11.56 -4.217,0 c 0.367,0.894 0.574,1.873 0.574,2.897 z"
+             id="path15"
+             style="fill:#fbad50"
+             inkscape:connector-curvature="0" /></g></g></g><g
+       id="g17"
+       transform="translate(0,-1.6520004)" /><g
+       id="g19"
+       transform="translate(0,-1.6520004)" /><g
+       id="g21"
+       transform="translate(0,-1.6520004)" /><g
+       id="g23"
+       transform="translate(0,-1.6520004)" /><g
+       id="g25"
+       transform="translate(0,-1.6520004)" /><g
+       id="g27"
+       transform="translate(0,-1.6520004)" /><g
+       id="g29"
+       transform="translate(0,-1.6520004)" /><g
+       id="g31"
+       transform="translate(0,-1.6520004)" /><g
+       id="g33"
+       transform="translate(0,-1.6520004)" /><g
+       id="g35"
+       transform="translate(0,-1.6520004)" /><g
+       id="g37"
+       transform="translate(0,-1.6520004)" /><g
+       id="g39"
+       transform="translate(0,-1.6520004)" /><g
+       id="g41"
+       transform="translate(0,-1.6520004)" /><g
+       id="g43"
+       transform="translate(0,-1.6520004)" /><g
+       id="g45"
+       transform="translate(0,-1.6520004)" /></svg></a>
+
+              <!-- GitHub -->
+                <a href="https://github.com/wilkohardenberg" title="My GitHub account (external site)" target="_blank">
+                <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="48"
+   height="48"
+   viewBox="0 0 512 512"
+   id="Capa_1"
+   xml:space="preserve"><metadata
+     id="metadata9"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs7" /><path
+     d="M 256,0 C 114.615,0 0,114.615 0,256 0,397.385 114.615,512 256,512 397.385,512 512,397.385 512,256 512,114.615 397.385,0 256,0 z m 152.028,408.028 c -19.76,19.758 -42.756,35.266 -68.354,46.093 -6.503,2.75 -13.106,5.164 -19.8,7.246 V 423 c 0,-20.167 -6.917,-35 -20.75,-44.5 8.667,-0.833 16.625,-2 23.875,-3.5 7.25,-1.5 14.917,-3.667 23,-6.5 8.083,-2.833 15.333,-6.208 21.75,-10.125 6.417,-3.917 12.583,-9 18.5,-15.25 5.917,-6.25 10.875,-13.333 14.875,-21.25 4,-7.917 7.167,-17.417 9.5,-28.5 2.333,-11.083 3.5,-23.292 3.5,-36.625 0,-25.833 -8.417,-47.833 -25.25,-66 7.667,-20 6.833,-41.75 -2.5,-65.25 l -6.25,-0.75 c -4.333,-0.5 -12.125,1.333 -23.375,5.5 -11.25,4.167 -23.875,11 -37.875,20.5 -19.833,-5.5 -40.417,-8.25 -61.75,-8.25 -21.5,0 -42,2.75 -61.5,8.25 -8.833,-6 -17.208,-10.958 -25.125,-14.875 -7.917,-3.917 -14.25,-6.583 -19,-8 -4.75,-1.417 -9.167,-2.292 -13.25,-2.625 -4.083,-0.333 -6.708,-0.417 -7.875,-0.25 -1.167,0.167 -2,0.333 -2.5,0.5 -9.333,23.667 -10.167,45.417 -2.5,65.25 -16.833,18.167 -25.25,40.167 -25.25,66 0,13.333 1.167,25.542 3.5,36.625 2.333,11.083 5.5,20.583 9.5,28.5 4,7.917 8.958,15 14.875,21.25 5.917,6.25 12.083,11.333 18.5,15.25 6.417,3.917 13.667,7.292 21.75,10.125 8.083,2.833 15.75,5 23,6.5 7.25,1.5 15.208,2.667 23.875,3.5 -13.667,9.333 -20.5,24.167 -20.5,44.5 v 39.115 c -7.549,-2.247 -14.99,-4.902 -22.3,-7.994 C 146.727,443.294 123.73,427.786 103.971,408.028 84.213,388.269 68.704,365.271 57.878,339.674 46.679,313.195 41,285.043 41,256 41,226.957 46.679,198.805 57.879,172.325 68.706,146.728 84.214,123.731 103.972,103.972 123.73,84.213 146.728,68.705 172.325,57.879 198.805,46.679 226.957,41 256,41 c 29.043,0 57.195,5.679 83.675,16.879 25.599,10.827 48.595,26.335 68.354,46.093 19.758,19.758 35.266,42.756 46.093,68.353 C 465.321,198.805 471,226.957 471,256 c 0,29.043 -5.679,57.195 -16.879,83.675 -10.827,25.596 -26.335,48.595 -46.093,68.353 z"
+     id="path3"
+     style="fill:#000000" /></svg>
+            </a>
+
+              <!-- Email -->
+                <a href="mailto:wilko.hardenberg@gmail.com" title="Send me an email">
+            <svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="48"
+   height="48"
+   viewBox="0 0 512 512"
+   id="Capa_1"
+   xml:space="preserve" style="PADDING-TOP: 20px"><metadata
+     id="metadata9"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs7" /><path
+     d="M 256,0 C 114.615,0 0,114.615 0,256 0,397.385 114.615,512 256,512 397.385,512 512,397.385 512,256 512,114.615 397.385,0 256,0 z M 128,128 h 256 c 4.569,0 9.002,0.981 13.072,2.831 L 256,295.415 114.928,130.83 C 118.998,128.982 123.431,128 128,128 z M 96,352 V 160 c 0,-0.67 0.028,-1.336 0.07,-2 L 189.902,267.471 97.103,360.27 C 96.381,357.602 96,354.827 96,352 z m 288,32 H 128 c -2.827,0 -5.601,-0.381 -8.27,-1.104 l 91.059,-91.06 45.211,52.75 45.212,-52.747 91.058,91.06 C 389.6,383.619 386.827,384 384,384 z m 32,-32 c 0,2.827 -0.381,5.6 -1.103,8.27 L 322.096,267.471 415.93,158 c 0.042,0.664 0.07,1.33 0.07,2 v 192 z"
+     id="path3"
+     style="fill:#666666" /></svg>
+            </a>
+
+            <!-- Adress -->
+            <a href="/address" title="Send me a letter"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="48"
+   height="48"
+   viewBox="0 0 512 512"
+   id="Capa_1"
+   xml:space="preserve"><metadata
+     id="metadata9"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs7" /><path
+     d="M 256,512 C 397.385,512 512,397.385 512,256 512,114.615 397.385,0 256,0 114.615,0 0,114.615 0,256 0,397.385 114.615,512 256,512 z m 0,-464 c 114.875,0 208,93.125 208,208 0,114.875 -93.125,208 -208,208 C 141.125,464 48,370.875 48,256 48,141.125 141.125,48 256,48 z"
+     id="path3"
+     style="fill:#458b00" /><path
+     d="m 361.71499,102.03552 c 25.44883,0 46.08,20.6306 46.08,46.08001 0,10.37375 -3.43008,19.94629 -9.216,27.64799 l -18.432,18.432 -64.512,-64.51199 18.432,-18.43201 c 7.7017,-5.78592 17.27366,-9.216 27.648,-9.216 z m -230.4,211.968 -18.432,82.944 82.944,-18.432 170.496,-170.496 -64.512,-64.51199 -170.496,170.49599 z m 187.65446,-107.25754 -129.024,129.024 -15.88492,-15.88492 129.024,-129.024 15.88492,15.88492 z"
+     id="path2987"
+     style="fill:#458b00" /></svg></a>
+
+            <!-- RSS -->
+              <a href="http://www.wilkohardenberg.net/feed.xml" target="_blank" title="Subscribe to my RSS"><svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   width="48"
+   height="48"
+   viewBox="0 0 512 512"
+   id="Capa_1"
+   xml:space="preserve"><metadata
+     id="metadata9"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs7" /><path
+     d="M 256,0 C 114.615,0 0,114.615 0,256 0,397.385 114.615,512 256,512 397.385,512 512,397.385 512,256 512,114.615 397.385,0 256,0 z m -96,384 c -17.673,0 -32,-14.327 -32,-32 0,-17.673 14.327,-32 32,-32 17.673,0 32,14.327 32,32 0,17.673 -14.327,32 -32,32 z m 88,0 C 248,317.832 194.168,264 128,264 v -48 c 92.636,0 168,75.364 168,168 h -48 z m 96,0 C 344,326.305 321.532,272.062 280.734,231.265 239.938,190.468 185.696,168 128,168 v -48 c 70.517,0 136.812,27.461 186.677,77.324 C 364.539,247.187 392,313.482 392,384 h -48 z"
+     id="path3"
+     style="fill:#f26522" /></svg></a>
+
+            </ul>
+          </nav>
+
+        </div>
+
+      </div>
+
+    </div>
+
+    <div class="panel-cover--overlay"></div>
+  </div>
+</header>
